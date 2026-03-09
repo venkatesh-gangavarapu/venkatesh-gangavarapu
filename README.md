@@ -4,9 +4,9 @@
 
 ### DevOps Engineer | Cloud Infrastructure & Automation | AWS • Kubernetes • Terraform • CI/CD
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateshgangavarapu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkateshg)
-[![Credly Badges](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/venkateshgangavarapu/badges)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-gangavarapu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkatesh-gangavarapu)
+[![Credly Badges](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/venkatesh-gangavarapu/badges)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangavarapuvenkatesh3@gmail.com)
 
 📍 Bengaluru, Karnataka, India &nbsp;|&nbsp; 📞 +91 8106936398
@@ -247,9 +247,9 @@ I'm actively open to **DevOps Engineer**, **Platform Engineer**, **SRE**, and **
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateshgangavarapu)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-gangavarapu)
 [![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangavarapuvenkatesh3@gmail.com)
-[![Credly](https://img.shields.io/badge/View%20Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/venkateshgangavarapu/badges)
+[![Credly](https://img.shields.io/badge/View%20Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/venkatesh-gangavarapu/badges)
 
 📍 Bengaluru, India (Open to Remote & Relocation)
 
