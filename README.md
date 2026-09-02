@@ -189,12 +189,48 @@ On-site production support in Kyiv, Ukraine — resolved critical data sync fail
 
 ---
 
+## 📖 Public Learning Portfolio — KodeKloud Challenges
+
+> Every challenge is fully documented: **README (WHY before HOW)**, **runnable commands.sh with inline comments**, and a **LinkedIn post leading with the real technical insight — not just the happy path**. Failures are documented inline.
+
+| Challenge | Status | Certificate | Repo |
+|-----------|--------|-------------|------|
+| ☁️ 100 Days of Cloud — AWS | ✅ Completed (50/50 tasks) | Certified | [100-days-cloud-challenge-AWS](https://github.com/venkatesh-gangavarapu/100-days-cloud-challenge-AWS) |
+| ⚙️ 100 Days of DevOps | ✅ Completed | Certified | [100-days-devops-challenge](https://github.com/venkatesh-gangavarapu/100-Days-of-DevOps-KodeKloud-Challenge) |
+| ☸️ Kubernetes Challenge | ✅ Completed + Certified | **Level 1** | [kubernetes-challenge](https://github.com/venkatesh-gangavarapu/kubernetes-kodekloud-challenge) |
+| ☁️ 100 Days of Cloud — Azure | 🔄 In Progress | — | [100-Days-Of-Cloud-Challenge-Azure](https://github.com/venkatesh-gangavarapu/100-Days-Of-Cloud-Challenge-Azure) |
+
+### ☸️ Kubernetes Challenge — Certificate
+
+<div align="center">
+
+![Kubernetes Level 1 Certificate](https://github.com/venkatesh-gangavarapu/kubernetes-challenge/blob/main/certification/kodekloud-course-completion-certificate.png?raw=true)
+
+**Kubernetes - Level 1** &nbsp;|&nbsp; KodeKloud Engineer &nbsp;|&nbsp; August 2026
+`Credential ID: Bbd555a7-6589-407b-9b40-40fbe4efddae` &nbsp;|&nbsp; *Signed by Mumshad Mannambeth, Founder & Trainer*
+
+</div>
+
+**What the Kubernetes challenge covered across 14 tasks + 10-question live exam:**
+
+- Pod lifecycle, container naming, labels as selectors
+- Deployments, ReplicaSets, rolling updates, and rollbacks
+- Jobs, CronJobs, namespaces, resource limits
+- ConfigMaps, environment variables, emptyDir volumes, subPath mounts
+- Services, NodePort, Endpoints, label selectors vs metadata labels
+- Live troubleshooting: ImagePullBackOff, CrashLoopBackOff, selector typos, Nginx + PHP-FPM misconfigurations, kubectl cp
+
+---
+
 ## 📚 Education & Certifications
 
-| Credential | Institution | Year |
-|-----------|-------------|------|
-| 🎓 Post Graduate Program in DevOps | Edureka & Purdue University | 2022–2023 |
-| 🎓 B.Tech — Electrical & Electronics Engineering | Narayana Engineering College, Nellore | 2013–2017 |
+| Credential | Institution | Status |
+|-----------|-------------|--------|
+| 🎓 Post Graduate Program in DevOps | Edureka & Purdue University | ✅ 2022–2023 |
+| 🎓 B.Tech — Electrical & Electronics Engineering | Narayana Engineering College, Nellore | ✅ 2013–2017 |
+| ☸️ **Kubernetes - Level 1** | **KodeKloud Engineer** | ✅ **Aug 2026** · ID: `Bbd555a7-6589-407b-9b40-40fbe4efddae` |
+| ⚙️ **100 Days of DevOps** | **KodeKloud** | ✅ **Certified** |
+| ☁️ **100 Days of Cloud — AWS** | **KodeKloud** | ✅ **Certified** |
 | ☁️ AWS Cloud Practitioner Essentials | Amazon Web Services | ✅ |
 | 🤖 AWS Partner: Generative AI on AWS Essentials | Amazon Web Services | ✅ |
 | 🔧 Ansible for Beginners | Certified | ✅ |
@@ -212,8 +248,8 @@ Python / Bash         ██████████████████░�
 CI/CD (Jenkins/Git)   ██████████████████░░  Advanced
 MongoDB DBA           ████████████████░░░░  Production Expert
 Docker                ██████████████░░░░░░  Proficient
+Kubernetes            ██████████████░░░░░░  Certified (Level 1) + Growing
 Terraform / IaC       ████████████░░░░░░░░  Building Proficiency
-Kubernetes            ██████████░░░░░░░░░░  Foundational + Growing
 PostgreSQL            ████████░░░░░░░░░░░░  Working Knowledge
 ```
 
